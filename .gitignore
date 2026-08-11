@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# SQLite database created at runtime by database.py
+sqlite.db
+sqlite.db-journal
+sqlite.db-wal
+sqlite.db-shm
